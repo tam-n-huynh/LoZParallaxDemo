@@ -1,0 +1,15 @@
+.horizontal-scroll-container {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 200px;
+  }
+  
+  .horizontal-scroll-container img {
+    position: absolute;
+    width: 200px; 
+    height: auto;
+    margin-right: 10px;
+  }
+  
